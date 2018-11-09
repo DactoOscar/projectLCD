@@ -1,0 +1,9 @@
+CONEXION DE BASE DATOS CON CLASE MODEL (Mensaje, Usuario)
+
+
+INTERFAZ:  	Login
+		Creación de Usuario
+
+Falta :	1. Enlazar los datos del Login y la base de datos (Usuario).
+	2. Crear la interfaz GENERAL del funcionamiento (para Enviar el msj luego del LOGIN)
+	3. Crear el metodo para enviar MSJ
